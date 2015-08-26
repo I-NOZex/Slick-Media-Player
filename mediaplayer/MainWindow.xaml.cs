@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace mediaplayer {
+namespace ui {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>

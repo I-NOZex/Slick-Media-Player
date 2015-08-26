@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace mediaplayer.Pages.Settings {
+namespace ui.Pages.Settings {
     /// <summary>
     /// Interaction logic for About.xaml
     /// </summary>

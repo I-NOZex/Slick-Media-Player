@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ui.Properties" GeneratedClassName="Configs">
+  <Profiles />
+  <Settings>
+    <Setting Name="bass_email" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tiagofm.profissional@outlook.pt</Value>
+    </Setting>
+    <Setting Name="bass_regkey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2X182953124818</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
